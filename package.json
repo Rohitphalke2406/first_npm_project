@@ -1,0 +1,12 @@
+{
+  "name": "@rohitphalke/string_manipulator",
+  "version": "1.0.0",
+  "description": "It's my first package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node String.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohit Phalke",
+  "license": "ISC"
+}
